@@ -1,0 +1,2 @@
+{"level":"error","ts":"2022-06-23T16:21:46+08:00","caller":"log/log.go:113","msg":"error:","app":"crash","reason":-1}
+{"level":"error","ts":"2022-06-23T18:58:59+08:00","caller":"log/log.go:114","msg":"error:","app":"crash","reason":-1}
