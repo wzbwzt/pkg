@@ -4,8 +4,9 @@
 package main
 
 import (
-	"log/pkg/log"
 	"os"
+
+	"github.com/wzbwzt/pkg/pkg/log"
 
 	"go.uber.org/zap/zapcore"
 )
